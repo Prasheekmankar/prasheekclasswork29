@@ -1,0 +1,20 @@
+.img{
+    height:30rem;
+    width:35rem
+}
+h1{
+    text-align: left; 
+     align-items: center;
+     color: aqua;
+}
+p{
+    text-align: left;
+    color: aquamarine;
+}
+.left{
+    display: flex;
+    align-items: center;
+}
+.info{
+    margin-left: 5rem;
+}
